@@ -9,7 +9,7 @@ Starting from 6th September 2021 in Sydney Australia, mainly serving Australia, 
 * Stripper.cfgs
 * Bosshud (Compatible with Anubis' edition)
 * Maplist/Mapcycle (Current maps on our rotation)
-
+* Chathud, due to some map texts are needed to be translated manually (Anubis Edition)
 
 ## Acknowledgements
 * GFL server
