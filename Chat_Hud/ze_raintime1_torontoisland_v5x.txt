@@ -1,0 +1,821 @@
+"Chat_Hud"
+{
+	"<<< 第一章_起点 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Chapter 1 - The Beginning {yellow}◄"
+	}
+	"<<< 多伦岛发生了异变，原因不明_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Toronto Island has anomalies for unknown reasons_ {yellow}◄"
+	}
+	"<<< 洛丹伦命令我部前往查看 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Lordaeron orders our squad to investigate {yellow}◄"
+	}
+	"<<< 我们将以这座神庙为据点_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We will use this temple as our base_ {yellow}◄"
+	}
+	"<<< 希望这是一个轻松的旅程 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hope it's an easy journey {yellow}◄"
+	}
+	"** 坚守40s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 40s {yellow}◄"
+		"ChatHud"		"►  Defend 40s  ◄"
+	}
+	">> 范围伤害 雷电拾起 <<"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Thunder item - Ranged Damage {yellow}◄"
+	}
+	"** 大门开启，撤退  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Door's opened. Fall back {yellow}◄"
+	}
+	"<<< 带齐装备，向岛屿进发 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Get all your gears, head into the island {yellow}◄"
+	}
+	"** T3超导兵器_增益者_群体范围泡泡雷已拾起 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} T3 superconducting weapon - booster - ranged knockback nade has been picked up {yellow}◄"
+	}
+	"** 增益者充能时间漫长，谨慎使用  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} T3 Booster has a long cooldown timer. Use that wisely. {yellow}◄"
+	}
+	"** 法王之名 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} In the name of king... {yellow}◄"
+	}
+	"<< 范围直线 风已拾起 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wind item - Straight line push {yellow}◄"
+	}
+	"** 恶灵溃散  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Evil spirits disperse {yellow}◄"
+	}
+	"** 等待12s石门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wait 12s for stone door opens {yellow}◄"
+		"ChatHud"		"►  Wait 12s for stone door opens ◄"
+	}
+	"<<< 这个地方有点古怪_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} This place looks weird_ {yellow}◄"
+	}
+	"<<< 穿越大门，我们将向上走，沿着遗迹进入洞穴，一探究竟_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Through the gate, we will walk up, follow the ruins into the cave, and find out what happenes_ {yellow}◄"
+	}
+	"<< 人类增益，治愈已拾起 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Human heal & boost has picked up {yellow}◄"
+	}
+	"** 坚守25s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 25s {yellow}◄"
+		"ChatHud"		"►  Defend 25s  ◄"
+	}
+	"** 坚守30s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 30s {yellow}◄"
+		"ChatHud"		"►  Defend 30s  ◄"
+	}
+	"<< 阻断  墙已拾起 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wall item - blocking zombies {yellow}◄"
+	}
+	"** 恶灵止步 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Evil spirits shall not pass {yellow}◄"
+	}
+	"** 等待，迷宫大门正在打开  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold on, opening the maze door {yellow}◄"
+	}
+	"<<< 这个洞穴不应该早就被废弃了吗？为什么还有如此规模的迷宫 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Shouldn't this cave been abandoned long ago? Why is there such a large maze {yellow}◄"
+	}
+	"<<< 不安 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Worried {yellow}◄"
+	}
+	"** 注意，在迷宫中，水可以为指引正确方向  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Note that in the maze, water can guide you in the right direction {yellow}◄"
+	}
+	"<<< 解锁机关，我们要离开这里 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Unlock the mechanism, we have to get out of here {yellow}◄"
+	}
+	"** 坚守10s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 10s  {yellow}◄"
+		"ChatHud"		"►  Defend 10s  ◄"
+	}
+	"** 第一开关已按下  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} First lever toggled {yellow}◄"
+	}
+	"** 第二开关已按下 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Second lever toggled {yellow}◄"
+	}
+	"** 请等待石门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wait for stone gate opens {yellow}◄"
+	}
+	"** 最后开关已按下 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Last lever toggled {yellow}◄"
+	}
+	"** 30s后上方通道打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Upper passage opens in 30s {yellow}◄"
+		"ChatHud"		"► Upper passage opens in 30s ◄"
+	}
+	"<<< 为什么还有传送水晶？是什么在使用它？ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Why there's a teleportation crystal? What is powering it? {yellow}◄"
+	}
+	"** 坚守30s平台上升 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 30s until platform rises {yellow}◄"
+		"ChatHud"		"► Defend 30s until platform rises ◄"
+	}
+	"<<<  古老的设施，有趣_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Ancient facility, interesting_ {yellow}◄"
+	}
+	"** 坚守20s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 20s  {yellow}◄"
+		"ChatHud"		"►  Defend 20s  ◄"
+	}
+	"** 剩余130s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 130s remaining {yellow}◄"
+		"ChatHud"		"►  130s remaining ◄"
+	}
+	"<<< 它就是这次异变的源头吗？ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Is it the source of this anomaly? {yellow}◄"
+	}
+	"<<< 总之，先击溃它吧 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Anyways, beat it down {yellow}◄"
+	}
+	"*** 狂风来袭 ***"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} WIND INCOMING {yellow}◄"
+	}
+	"*** 昏暗飞刃 ***"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} FAINT LASER {yellow}◄"
+	}
+	"*** 地震 ***"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} EARTHQUAKE {yellow}◄"
+	}
+	"*** 火焰吐息 ***"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} FIRE BREATH {yellow}◄"
+	}
+	"<<< 他逃走了_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It escaped_ {yellow}◄"
+	}
+	"** 剩余2s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 2s left {yellow}◄"
+		"ChatHud"		"► 2s left ◄"
+	}
+	"<<< 但是它还会会来的 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} But it will be back {yellow}◄"
+	}
+	"** 沿着洞穴瀑布向上 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Swim up through the waterfall {yellow}◄"
+	}
+	"<<< 赶快离开这里吧_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Let's get out of here_ {yellow}◄"
+	}
+	"** 快上船离开这里 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Get on the boat {yellow}◄"
+	}
+	"** 坚守35s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 35s {yellow}◄"
+		"ChatHud"		"► Defend 35s ◄"
+	}
+	"** 第一章_结束 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Chapter 1 Ends. Map text translated by Oz_Lin @ OZIG {yellow}◄"
+	}
+	"<<< 第二章_序幕 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Chapter 2 - The Prelude {yellow}◄"
+	}
+	"<<< 鉴于之前的探索，这次绝不是简单的异变 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Based on the previous exploration, this time is by no means a simple mutation {yellow}◄"
+	}
+	"<<< 我们蒙受损失，要向洛丹伦撤离并汇报情况_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We have suffered losses, we must evacuate to Lordaeron and report the situation_ {yellow}◄"
+	}
+	"<<< 一定会回来的，一定_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Will definitely come back, definitely_ {yellow}◄"
+	}
+	"<<< 这次，我们将借道西处的洞穴向洛丹伦方向撤退 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} This time, we will retreat towards Lordaeron via the cave in the west. {yellow}◄"
+	}
+	"<<< 那地方尘封多年，可能还会有守护者_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} The place has been dusty for many years, and there may still be guardians_ {yellow}◄"
+	}
+	"<<< 哦，我的上帝，诸事不顺_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} oh my god, things are not going right_ {yellow}◄"
+	}
+	"** 15s石墙爆炸 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Stone wall explodes in 15s (Do not doorhug)  {yellow}◄"
+		"ChatHud"		"► Stone wall explodes in 15s ◄"
+	}
+	"<<< 闪开，我们要把这些挡路的都炸开 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Get out of the way, we're going to blast those in the way {yellow}◄"
+	}
+	"** 正在解锁 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Unlocking now {yellow}◄"
+	}
+	"** 10s吊桥放下 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Lowering the drawbridge down in 10s {yellow}◄"
+		"ChatHud"		"►  Drawbridge down in 10s ◄"
+	}
+	"<<< 开关还能用，万幸_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} The switch still works, fortunately_ {yellow}◄"
+	}
+	"<<< 这些石板上年纪了，新兵，多加注意 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} These slates are getting old, recruit, be careful {yellow}◄"
+	}
+	"** 20s铁门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Gate opens in 20s {yellow}◄"
+		"ChatHud"		"► Gate opens in 20s ◄"
+	}
+	"<<< 为什么有那么多机关？这里到底发生过什么_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Why are there so many levers? What the heck happened here_  {yellow}◄"
+	}
+	"** 风之护体 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wind shield activated {yellow}◄"
+	}
+	"** 25s铁门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Gate opens in 25s {yellow}◄"
+		"ChatHud"		"► Gate opens in 25s ◄"
+	}
+	"** 20s石墙爆炸 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Stone wall explodes in 20s (Do not doorhug) {yellow}◄"
+		"ChatHud"		"► Stone wall explodes in 20s ◄"
+	}
+	"<<< 是前哨站，我们快到了 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It's the outpost, we're almost there {yellow}◄"
+	}
+	"** 30s石墙爆炸 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Stone wall explodes in 30s (Do not doorhug) {yellow}◄"
+		"ChatHud"		"► Stone wall explodes in 30s ◄"
+	}
+	"<<< 是守护者，这老东西还在这里_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It's the guardian, this old thing is still here_ {yellow}◄"
+	}
+	"<<< 没办法，强行突破 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We have no choice, have to break through {yellow}◄"
+	}
+	"** 剩余120s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 120s remaining {yellow}◄"
+		"ChatHud"		"► 120s remaining ◄"
+	}
+	"** 虹吸 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} PULL {yellow}◄"
+	}
+	"** 天罚 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} CURSE {yellow}◄"
+	}
+	"** 3s传送_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 3s teleport_ {yellow}◄"
+		"ChatHud"		"►  3s teleport_  ◄"
+	}
+	"** 20s传送点打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 20s teleporter opens {yellow}◄"
+		"ChatHud"		"►  20s teleporter opens ◄"
+	}
+	"** 传送点已开启，快走 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Teleporter opened. Run! {yellow}◄"
+	}
+	"** 模型提供miluli_在此感谢 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Thanks miluli for the model {yellow}◄"
+	}
+	"<<< 这是？_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} This is? {yellow}◄"
+	}
+	"<<< 恶魔！他怎么会在这里？快击溃它_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Demon! Why is it here? Defeat it quickly_  {yellow}◄"
+	}
+	"<<< 它逃走了_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It escaped_  {yellow}◄"
+	}
+	"<<< 但是这一切太过蹊跷了 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} But it's all too strange {yellow}◄"
+	}
+	"** 10s大门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 10s gate open {yellow}◄"
+		"ChatHud"		"►  10s gate open  ◄"
+	}
+	"** 坚守60s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 60s  {yellow}◄"
+		"ChatHud"		"►  Defend 60s  ◄"
+	}
+	"<<< 那个恶魔一定在筹划着什么，决不能让它得逞_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} That demon must be planning something, we must not let it succeed_  {yellow}◄"
+	}
+	"** 序幕已经拉开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Prelude Completed. Map text translated by Oz_Lin @ OZIG {yellow}◄"
+	}
+	"<<< 第二章_激突_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Chapter 3 - Assault {yellow}◄"
+	}
+	"<<< 因为恶魔的出现，我们的计划被彻底打乱 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Because of the presence of the demon, our plans were completely disrupted {yellow}◄"
+	}
+	"<<< 它一定和这次异变有关联，那家伙太危险了_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It must be related to this mutation, that guy is too dangerous_ {yellow}◄"
+	}
+	"<<< 我们放弃回到洛丹伦，再次回到这里 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We gave up retreating to Lordaeron, back in here again {yellow}◄"
+	}
+	"<<< 根据情报，那家伙就在岛上的地下城中_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Based on the intel, that guy is in the dungeon on the island_ {yellow}◄"
+	}
+	"<<< 我们将要发动攻击，粉碎它，打得连它老妈都不认识 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We're going to attack, smash it, fight it completely that its mother doesn't even know (Chinglish intended) {yellow}◄"
+	}
+	"<<< 但愿这是最后一战，为了洛丹伦_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We hope this is the last battle, all for Lordaeron_  {yellow}◄"
+	}
+	"** 收割者_僵尸神力拾起 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Zombie Reaper item picked up {yellow}◄"
+	}
+	"** 坚持45s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 45s  {yellow}◄"
+		"ChatHud"		"►  Defend 45s  ◄"
+	}
+	"** 双子大门15s打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Double doors opening in 15s {yellow}◄"
+		"ChatHud"		"► Double doors opening in 15s ◄"
+	}
+	"<<< 废弃的地下城仍在运行 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} The abandoned dungeon is still in operation {yellow}◄"
+	}
+	"** 20s道路打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Path opens in 20s {yellow}◄"
+		"ChatHud"		"► Path opens in 20s ◄"
+	}
+	"** 录入访问者信息_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} ENTERING VISITOR INFO_ {yellow}◄"
+	}
+	"** 信息上传中_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} UPLOADING INFO_ {yellow}◄"
+	}
+	"** 解锁下一扇大门_等待15s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Unlocking next door_Hold 15s  {yellow}◄"
+		"ChatHud"		"►  Unlocking next door_Hold 15s  ◄"
+	}
+	"** 注意侧路僵尸 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Watchout the zombie shortcut {yellow}◄"
+	}
+	"** 解锁失败_大门不许开启_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} UNLOCK FAILED - ACCESS DENIED {yellow}◄"
+	}
+	"** 更换方式_重新解锁中_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Trying another unlock method {yellow}◄"
+	}
+	"** 访问成功_大门10s开启_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Success! Door opens in 10s {yellow}◄"
+		"ChatHud"		"► Success! Door opens in 10s ◄"
+	}
+	"<<< 退路被切断了，这是个阴谋！ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} The escape route has been cut off, this is a conspiracy! {yellow}◄"
+	}
+	"** 未获得许可_等待 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} PERMISSION NOT GRANTED_WAIT {yellow}◄"
+	}
+	"<<< 前方未知，但我们只能继续前进 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Unknowns ahead, but we can only move on {yellow}◄"
+	}
+	"** 已准许_进入 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} GRANTED_ENTER {yellow}◄"
+	}
+	"** 20s大门打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Door opens in 20s {yellow}◄"
+		"ChatHud"		"► Door opens in 20s ◄"
+	}
+	"<<< 我们被包围了，见鬼！ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We are surrounded, shit! {yellow}◄"
+	}
+	"** 第一开关按下，解锁大门 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} First switch triggered - unlocking the door {yellow}◄"
+	}
+	"** 大门即将锁闭_阻挡它们 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Door's closing, block them out {yellow}◄"
+	}
+	"** 第二开关按下，解锁大门 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Second switch triggered - unlocking the door {yellow}◄"
+	}
+	"** 不要让他们穿过大门_坚持 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} HOLD - Don't let them in {yellow}◄"
+	}
+	"** 大门5s开启_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Door opens in 5s {yellow}◄"
+		"ChatHud"		"► Door opens in 5s ◄"
+	}
+	"** 向后移动 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} MOVE BACKWARDS  {yellow}◄"
+	}
+	"** 向左移动 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} MOVE LEFT  {yellow}◄"
+	}
+	"** 向前移动 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} MOVE FORWARD  {yellow}◄"
+	}
+	"** 向右移动 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} MOVE RIGHT  {yellow}◄"
+	}
+	"<<< 它消失了，但我们仍被它玩弄在股掌中，该死 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It's disappeared, but we're still being played with it, dammit  {yellow}◄"
+	}
+	"** 5s开始赛跑_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Start running in 5s_  {yellow}◄"
+		"ChatHud"		"► Start running in 5s_ ◄"
+	}
+	"** 25s准许传送_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Teleport granted in 25s_  {yellow}◄"
+		"ChatHud"		"►  Teleport granted in 25s_  ◄"
+	}
+	"** 坚持50s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Defend 50s  {yellow}◄"
+		"ChatHud"		"►  Defend 50s  ◄"
+	}
+	"<<< 又是它，为什么还活着 >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} It's it again, why is it still alive? {yellow}◄"
+	}
+	"** 这家伙想折磨我们 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} This madafaka wants to torture us {yellow}◄"
+	}
+	"<<< 绝对不会让它得逞_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Don't let it happen {yellow}◄"
+	}
+	"<<< 暂时击退它了，快跑_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Run! It retreated temporarily {yellow}◄"
+	}
+	"<<< 快去激活水晶！ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Go activate the crystal! {yellow}◄"
+	}
+	"** 40s恶灵_施以天罚 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 40s Evil spirit _ inflict punishment {yellow}◄"
+		"ChatHud"		"►  40s Evil spirit _ inflict punishment ◄"
+	}
+	"** 似乎有不洁者在阻碍施法 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Seems like there are unholy ones blocking spell casting {yellow}◄"
+	}
+	"** 我们将采用另一种方法转移，坚持 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} We'll take another approach to teleport, hold on {yellow}◄"
+	}
+	"** 10s传送水晶打开 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 10s Teleport crystal activates {yellow}◄"
+		"ChatHud"		"►  10s Teleport crystal activates ◄"
+	}
+	"** 第二章_结束 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Chapter 3 Ends. Map text translated by Oz_Lin @ OZIG {yellow}◄"
+	}
+	"** 生存50s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Survive 50s  {yellow}◄"
+		"ChatHud"		"►  Survive 50s  ◄"
+	}
+	"<<< 娱乐关_ >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Fun Stage_  {yellow}◄"
+	}
+	"** 坚持40s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 40s  {yellow}◄"
+		"ChatHud"		"►  Hold 40s  ◄"
+	}
+	"** 请站在后面，坚持10s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Stand back and hold 10s  {yellow}◄"
+		"ChatHud"		"►  Stand back and hold 10s  ◄"
+	}
+	"** 坚持20s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 20s  {yellow}◄"
+		"ChatHud"		"►  Hold 20s  ◄"
+	}
+	"** 坚守47s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 47s  {yellow}◄"
+		"ChatHud"		"►  Hold 47s  ◄"
+	}
+	"** 坚持30s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 30s  {yellow}◄"
+		"ChatHud"		"►  Hold 30s  ◄"
+	}
+	"** 坚守50s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 50s  {yellow}◄"
+		"ChatHud"		"►  Hold 50s  ◄"
+	}
+	"** 娱乐关_结束  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Fun Stage Ends. Map text translated by Oz_Lin @ OZIG {yellow}◄"
+	}
+	"<<< [ZM]  >>>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} [ZM]   {yellow}◄"
+	}
+	"** 坚持200s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 200s  {yellow}◄"
+		"ChatHud"		"►  Hold 200s  ◄"
+	}
+	"** 能力提升 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Ability Boost  {yellow}◄"
+	}
+	"** [ZM] 结束 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} [ZM] Ends  {yellow}◄"
+	}
+	"**骑士铠甲已获得_  **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Knight Armor has been acquired. Mouse2: Push Ability (CD:3s). Laser: SAWDAD + Mouse1 {yellow}◄"
+	}
+	"** 坚持37s **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Hold 37s  {yellow}◄"
+		"ChatHud"		"►  Hold 37s  ◄"
+	}
+	"** 驱逐者_僵尸刀拾起 **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Banisher - Zombie Knife Pick Up  {yellow}◄"
+	}
+	"** T2兵器_废弃诅咒已拾起_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} T2 Weapon_Abandoned curse has been picked up_ {yellow}◄"
+	}
+	"** 诅咒者附加高额减速，并废除普通人类武器_ **"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} The curser adds a high slowdown and abolishes ordinary human weapons_ {yellow}◄"
+	}
+}
