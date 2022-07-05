@@ -1,0 +1,180 @@
+"Chat_Hud"
+{
+	"正门已上锁，请走侧门"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Door's locked. Take the side entrance {yellow}◄"
+	}
+	"10S后打开演播室门"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Opening the broadcast room in 10s {yellow}◄"
+		"ChatHud"		"► Opening the broadcast room in 10s ◄"
+	}
+	"舞台下的暗门将在30秒后打开"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Hidden door under the stage opens in 30s {yellow}◄"
+		"ChatHud"		"► Hidden door under the stage opens in 30s ◄"
+	}
+	"门开了！"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Door is opened! {yellow}◄"
+	}
+	"路被堵住了，防守15S"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Path is blocked. Defend 15S {yellow}◄"
+		"ChatHud"		"► Path is blocked. Defend 15S ◄"
+	}
+	"小心了，前面有个陷阱，不要前进，稍等20S"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Watch out, trap ahead. Wait another 20S {yellow}◄"
+		"ChatHud"		"► Watch out, trap ahead. Wait another 20S ◄"
+	}
+	"陷阱已被解除"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Trap deactivated {yellow}◄"
+	}
+	"C4炸弹将于15秒后爆炸"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}C4 explodes in 15s {yellow}◄"
+		"ChatHud"		"► C4 explodes in 15s ◄"
+	}
+	"等等！我记得这里是个陷阱！快跑！"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Wait! I remember there is a trap! Run! {yellow}◄"
+	}
+	"居然是陷阱！"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}It's a trap! {yellow}◄"
+	}
+	"小心别碰到柱子了"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Do not touch the poles {yellow}◄"
+	}
+	"5秒关闭玻璃门"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Closing the glass door in 5s {yellow}◄"
+		"ChatHud"		"► Closing the glass door in 5s ◄"
+	}
+	"糟了，如果我没记错的话前面是送终鸡，小心它的激光，躲不开的话会被最好的手法切成两半!"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Crap! Laser ahead! (Good luck not to be cut in half) {yellow}◄"
+	}
+	"25S"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Wall breaks in 25s. Remember to run, the ceiling ahead will fall! {yellow}◄"
+		"ChatHud"		"► Ready to doorhug in 25S ◄"
+	}
+	"快跑！这里是天花板会掉下来的陷阱"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Run! The ceiling will fall! {yellow}◄"
+	}
+	"我忘记这里是地板会碎的陷阱了!"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}I forgot the floor breaks! {yellow}◄"
+	}
+	"这么重要的事情就不要忘记了啊!"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Don't forget such important things... {yellow}◄"
+	}
+	"这次是水淹呢..."
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Flooding this time... {yellow}◄"
+	}
+	"查理:厉害,你们居然能通过这么多陷阱来到Guild最深处,我是查理,Guild的负责人,守住最后的30S"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Charlie: It's amazing, you can go through so many traps to the deepest part of Guild, I'm Charlie, the person in charge of Guild, guard the last 30S {yellow}◄"
+		"ChatHud"		"► Guard the last 30S ◄"
+	}
+	"查理:然后就交给我吧！"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Charlie: Let me handle this! {yellow}◄"
+	}
+	"查理：让你看看我们Guild的大杀器！"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Charlie: Let me show you our Guild's big killer!  {yellow}◄"
+	}
+	"由理子：坦克你们都能做出来？"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Yuriko：You know how to make a tank? WTF? {yellow}◄"
+	}
+	"查理：哼，可不要小瞧我们。全体进入掩体，炮击就绪"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Charlie: Don't look down on us. All get in the shelter. Ready for cannon! {yellow}◄"
+	}
+	"--3--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--3-- {yellow}◄"
+		"ChatHud"		"► --3-- ◄"
+	}
+	"--2--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--2-- {yellow}◄"
+		"ChatHud"		"► --2-- ◄"
+	}
+	"--1--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--1-- {yellow}◄"
+		"ChatHud"		"► --1-- ◄"
+	}
+	"--BOOM--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--BOOM-- EN Translation: Oz_Lin @ OZIG{yellow}◄"
+	}
+	"查理：坦克居然炸膛了？果然，不理解构造的话还真的做不出来"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Charlie: Did the tank blow up? Of course, if you don't understand the structure, you can't really do it. {yellow}◄"
+	}
+	"由理子：不会做的东西不要乱做啊！会死人的!"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Yuriko：Don't create stuff you don't know! It will kill people! {yellow}◄"
+	}
+	"由理子：不管了，全体进入电梯，准备引爆Guild，让这些僵尸和基地一起沉睡吧!"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Yuriko：Forget about it. All in elevator, explode Guild, trap the zombies forever! {yellow}◄"
+	}
+	"--Guild基地将在7秒后自爆--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--Guild base explodes in 7s-- {yellow}◄"
+		"ChatHud"		"► --Guild base explodes in 7s-- ◄"
+	}
+	"--BOOM!--"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}--BOOM!-- {yellow}◄"
+	}
+	"Door's locked. Take the side entrance"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green}Door's locked. Take the side entrance {yellow}◄"
+	}
+}
