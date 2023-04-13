@@ -1,0 +1,61 @@
+"Chat_Hud"
+{
+	"<< Wait : 20 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Wait : 20  {yellow}◄"
+		"ChatHud"		"►  Wait : 20  ◄"
+	}
+	"<< 30 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 30  {yellow}◄"
+		"ChatHud"		"►  30  ◄"
+	}
+	"<< 20 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 20  {yellow}◄"
+		"ChatHud"		"►  20  ◄"
+	}
+	"<< 35 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} 35  {yellow}◄"
+		"ChatHud"		"►  35  ◄"
+	}
+	"<< Close : 20 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Close : 20  {yellow}◄"
+		"ChatHud"		"►  Close : 35  ◄"
+	}
+	"<< Good >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Good  {yellow}◄"
+	}
+	"<< Lift move : 20 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Lift move : 20  {yellow}◄"
+		"ChatHud"		"►  Lift move : 35  ◄"
+	}
+	"<< Boss Nuke : 30 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Boss Nuke : 30  {yellow}◄"
+		"ChatHud"		"►  Boss Nuke : 35  ◄"
+	}
+	"<< Survive : 40 >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} Survive : 40  {yellow}◄"
+		"ChatHud"		"►  Survive : 35  ◄"
+	}
+	"<< to be continued ... ??? >>"
+	{
+		"enabled"		"1"
+		"default"		"{red}[Console] {yellow}► {green} to be continued ... ???  {yellow}◄"
+	}
+}
